@@ -27,5 +27,10 @@ clear && py qrcode_stegnography2.py -d mandrill_encoded.png
 clear && py qrcode_stegnography2.py -d mandrill_encoded.png -q
 ```
 
+SONUÇLAR
+|   | MSE | RMSE | PSNR | SSIM |
+|---|---|---|---|---|
+| LENA | 0,00469 | 0,06848 | 71,4194 | 0,99999 |
+| LENA RGB | 0,00912 | 0,09550 | 68,5303  | 0,99998 |
 
 Resimler için: [Tıkla](https://sipi.usc.edu/database/database.php?volume=misc)
