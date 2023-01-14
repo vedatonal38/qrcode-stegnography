@@ -26,3 +26,6 @@ clear && py qrcode_stegnography2.py -d mandrill_encoded.png
 ```
 clear && py qrcode_stegnography2.py -d mandrill_encoded.png -q
 ```
+
+
+Resimler için: [Tıkla](https://sipi.usc.edu/database/database.php?volume=misc)
